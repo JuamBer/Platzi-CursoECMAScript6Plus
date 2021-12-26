@@ -1,0 +1,11 @@
+{
+  "name": "curso_ecmascript_platzi",
+  "version": "1.0.0",
+  "description": "curso_ecmascript_platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Sáez García",
+  "license": "MIT"
+}
